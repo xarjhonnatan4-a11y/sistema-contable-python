@@ -38,7 +38,7 @@ se puede agregar el inventario 2 o clasificar gastos no deducibles si se llegara
 ## Capturas del sistema
 
 ### Libro de Compras
-![libro de Compras](screenshots/libro de Compras.png)
+![libro de Compras](screenshots/libro de compras.png)
 
 ### Libro de Diario
 ![Libro de Diario](screenshots/libro Diario.png)
