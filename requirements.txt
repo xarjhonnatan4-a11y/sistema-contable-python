@@ -1,0 +1,16 @@
+# Dependencias directas detectadas en el proyecto.
+# Recomendado: fijar versiones desde un entorno confiable con:
+#   python -m pip freeze > requirements.lock.txt
+
+streamlit
+pandas
+numpy
+openpyxl
+
+# Restricciones de seguridad detectadas por pip-audit.
+# Estas dependencias pueden llegar como transitivas de Streamlit u otros paquetes.
+gitpython>=3.1.50
+pillow>=12.2.0
+requests>=2.33.0
+tornado>=6.5.5
+urllib3>=2.7.0

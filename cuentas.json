@@ -1,0 +1,926 @@
+[
+    {
+        "codigo": "C0001",
+        "nombre": "Ventas",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0002",
+        "nombre": "Abono, Fungicidas y Pesticidas",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0003",
+        "nombre": "Alquileres",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0004",
+        "nombre": "Bancos",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0005",
+        "nombre": "Caja",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0006",
+        "nombre": "Clientes",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0007",
+        "nombre": "Combustible",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0009",
+        "nombre": "Comisiones Pagadas",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0010",
+        "nombre": "Compras",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0011",
+        "nombre": "Compras Exentas",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0012",
+        "nombre": "ENERGÍA ELÉCTRICA",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0013",
+        "nombre": "Equipo de Cocina",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0014",
+        "nombre": "Equipo de Mantenimiento y Limpieza",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0017",
+        "nombre": "Gastos de Representación",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0018",
+        "nombre": "Gastos Navideños",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0019",
+        "nombre": "Gastos S/Compras",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0020",
+        "nombre": "Gastos Uniformes",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0021",
+        "nombre": "IDP",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0022",
+        "nombre": "IVA Crédito",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0023",
+        "nombre": "IVA Débito",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0025",
+        "nombre": "Mantenimiento",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0026",
+        "nombre": "Mantenimiento y Limpieza",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0027",
+        "nombre": "Material de Empaque",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0028",
+        "nombre": "Mobiliario y Equipo",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0029",
+        "nombre": "OTRAS",
+        "tipo": "",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0030",
+        "nombre": "Otras Compras",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0031",
+        "nombre": "Otros Impuestos",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0032",
+        "nombre": "PEQUEÑO CONTRIBUYENTE",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0033",
+        "nombre": "Proveedores",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0034",
+        "nombre": "Regalias Pagadas",
+        "tipo": "",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0035",
+        "nombre": "Repuestos y Lubricantes",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0036",
+        "nombre": "Servicio de Pronto Pago",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0037",
+        "nombre": "Servicios",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0038",
+        "nombre": "Suministros de Cocina",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0039",
+        "nombre": "Suministros de Oficina",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0040",
+        "nombre": "Tasa Municipal",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0041",
+        "nombre": "Telefono",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0042",
+        "nombre": "Uniformes",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0043",
+        "nombre": "PRUEBA",
+        "tipo": "",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0044",
+        "nombre": "DONACIÓN",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0045",
+        "nombre": "Repuesto para Maquinaria",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0046",
+        "nombre": "Seguros Pagados",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0047",
+        "nombre": "Banco Industrial",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0048",
+        "nombre": "N/D Servicios Bancarios",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0049",
+        "nombre": "Capital",
+        "tipo": "patrimonio",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0050",
+        "nombre": "Ganancia del Ejercicio",
+        "tipo": "patrimonio",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0051",
+        "nombre": "ISR por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0052",
+        "nombre": "IVA por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0053",
+        "nombre": "Anticipo S/Ventas",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0054",
+        "nombre": "Cuentas por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0055",
+        "nombre": "Retención ISR",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0056",
+        "nombre": "ISR Mensual",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0057",
+        "nombre": "Compras Lubricantes",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0058",
+        "nombre": "Combustible Gasto",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0059",
+        "nombre": "ISO",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0060",
+        "nombre": "ISO por acreditar",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0061",
+        "nombre": "Crédito de Retención IVA",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0062",
+        "nombre": "Ganancia Acumulada",
+        "tipo": "patrimonio",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0063",
+        "nombre": "ISO por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0064",
+        "nombre": "ISR Anual por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0065",
+        "nombre": "Honorarios P/C",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0066",
+        "nombre": "Anticipo S/Compras",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0067",
+        "nombre": "Retención IVA",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0068",
+        "nombre": "Ventas Est. 1",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0069",
+        "nombre": "Ventas Est. 2",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0070",
+        "nombre": "Ventas Est. 3",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0071",
+        "nombre": "Mercaderia",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0072",
+        "nombre": "Ventas por Anticipado",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0073",
+        "nombre": "Multas y Recargos SAT",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0074",
+        "nombre": "IVA por Cobrar",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0075",
+        "nombre": "Maquinaria",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0076",
+        "nombre": "Depreciación Acumulada Maquinaria",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0077",
+        "nombre": "Reintegro",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0078",
+        "nombre": "Anticipo S/Servicios",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0079",
+        "nombre": "Depreciación Acumulada Mobiliario y Equipo",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0080",
+        "nombre": "Vehículos",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0081",
+        "nombre": "Depreciación Acumulada Vehículos",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0082",
+        "nombre": "Equipo de Computación",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0083",
+        "nombre": "Depreciación Acumulada Equipo de Computación",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0084",
+        "nombre": "Pago en Exceso",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0085",
+        "nombre": "Banco Banrural",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0086",
+        "nombre": "Cupones",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0087",
+        "nombre": "IDP Super",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0088",
+        "nombre": "IDP Regular",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0089",
+        "nombre": "IDP Diesel",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0090",
+        "nombre": "Mercaderia Super",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0091",
+        "nombre": "Mercaderia Regular",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0092",
+        "nombre": "Mercaderia Diesel",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0093",
+        "nombre": "Mercaderia Lubricantes",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0094",
+        "nombre": "Capital Autorizado",
+        "tipo": "patrimonio",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0095",
+        "nombre": "Reserva Legal",
+        "tipo": "patrimonio",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0096",
+        "nombre": "Sueldos y Salarios por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0097",
+        "nombre": "Bonificación por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0098",
+        "nombre": "Cuota Laboral por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C0099",
+        "nombre": "Cuota Patronal por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00100",
+        "nombre": "IRTRA por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00101",
+        "nombre": "INTECAP por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00102",
+        "nombre": "Acreedores",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00103",
+        "nombre": "Provisión para Prestaciones Laborales",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00104",
+        "nombre": "Retención ISR por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00105",
+        "nombre": "Acciones por Suscribir",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00106",
+        "nombre": "Evaporización",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00107",
+        "nombre": "Venta Diesel",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00108",
+        "nombre": "Venta Regular",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00109",
+        "nombre": "Venta Super",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00110",
+        "nombre": "Compras Super",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00111",
+        "nombre": "Compras Regular",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00112",
+        "nombre": "Compras Diesel",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00113",
+        "nombre": "Cuota Patronal",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00114",
+        "nombre": "IRTRA",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00115",
+        "nombre": "INTECAP",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00116",
+        "nombre": "Sueldos y Salarios",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00117",
+        "nombre": "Bonificación",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00118",
+        "nombre": "Contribución Minima IGSS",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00119",
+        "nombre": "IDP Gasto",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00120",
+        "nombre": "Prestaciones Laborales",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00121",
+        "nombre": "Ventas Lubricantes",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00122",
+        "nombre": "Pago Extraordinario de Salario",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00123",
+        "nombre": "Venta Exhibición Shell",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00124",
+        "nombre": "Intereses Percibidos",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00125",
+        "nombre": "Arbitrio Municipal",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00126",
+        "nombre": "no cuadra",
+        "tipo": "",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00127",
+        "nombre": "ISR Trimestral",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00128",
+        "nombre": "ISO Trimestral por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00129",
+        "nombre": "Flete",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00130",
+        "nombre": "ISR Trimestral por pagar",
+        "tipo": "pasivo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00131",
+        "nombre": "N/D Cheque rechazado",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00132",
+        "nombre": "Equipo de Oficina",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00133",
+        "nombre": "Otras Ventas",
+        "tipo": "ingreso",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00134",
+        "nombre": "Otros Gastos",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00135",
+        "nombre": "Gastos no Deducibles",
+        "tipo": "gasto",
+        "naturaleza": "",
+        "activa": true
+    },
+    {
+        "codigo": "C00136",
+        "nombre": "Mobiliario y Equipo de Lavanderia",
+        "tipo": "activo",
+        "naturaleza": "",
+        "activa": true
+    }
+]

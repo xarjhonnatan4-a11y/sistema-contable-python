@@ -1,0 +1,14 @@
+{
+    "2026": {
+        "CE1": {
+            "agricola": 3791.2,
+            "no_agricola": 4002.28,
+            "maquila": 3409.73
+        },
+        "CE2": {
+            "agricola": 3625.89,
+            "no_agricola": 3816.9,
+            "maquila": 3221.1
+        }
+    }
+}
