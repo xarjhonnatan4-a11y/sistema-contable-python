@@ -35,16 +35,6 @@ luego genera automaticamente las partidas de ingreso y egreso listas para verifi
 de cuenta de las empresas, o retenciones o exenciones o movimientos extraordinarios, o dejarlo como el sistema le indica si no hay estado de cuenta, en el estado de resultados
 se puede agregar el inventario 2 o clasificar gastos no deducibles si se llegara a necesitar y ya con eso todo lo demás esta automatizado.
 
-## Capturas del sistema
-
-### Libro de Compras
-![libro de Compras](screenshots/libro de compras.png)
-
-### Libro de Diario
-![Libro de Diario](screenshots/libro Diario.png)
-
-### Libro Mayor
-![Libro Mayor](screenshots/libro Mayor.png)
 
 ## Estructura del proyecto
 
@@ -58,3 +48,14 @@ sistema-contable-python/
 ├── pages/
 └── utils/
 ```
+
+## Capturas del sistema
+
+### Libro de Compras
+![libro de Compras](screenshots/libro de compras.png)
+
+### Libro de Diario
+![Libro de Diario](screenshots/libro Diario.png)
+
+### Libro Mayor
+![Libro Mayor](screenshots/libro Mayor.png)
