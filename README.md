@@ -57,3 +57,4 @@ sistema-contable-python/
 ├── salarios_minimos.json
 ├── pages/
 └── utils/
+```
