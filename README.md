@@ -52,10 +52,10 @@ sistema-contable-python/
 ## Capturas del sistema
 
 ### Libro de Compras
-![libro de Compras](screenshots/libro de compras.png)
+![libro de Compras](screenshots/libro_de_compras.png)
 
 ### Libro de Diario
-![Libro de Diario](screenshots/libro Diario.png)
+![Libro de Diario](screenshots/libro_Diario.png)
 
 ### Libro Mayor
-![Libro Mayor](screenshots/libro Mayor.png)
+![Libro Mayor](screenshots/libro_Mayor.png)
